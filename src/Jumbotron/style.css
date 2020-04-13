@@ -1,0 +1,28 @@
+.jumbotron {
+    border-radius: 25px !important;
+}
+
+h1, h2 {
+    font-family: 'Raleway';
+}
+
+p {
+    font-family: 'Raleway';
+}
+
+h3 {
+    text-align: center;
+}
+
+
+.profileImg {
+    width: 250px;
+    height: 250x;
+}
+
+button {
+    border-radius: 12px !important;
+    background-color: teal;
+    color: wheat;
+    text-align: center;
+}
